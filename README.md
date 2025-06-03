@@ -49,7 +49,7 @@ Here are a few examples of how to interact with the database.
 INSERT INTO Books VALUES (1, 'Atomic Habits', 'James Clear', 2018, 3);
 
 **Add a Member**
-INSERT INTO Members VALUES (101, 'Alice Johnson', 'alice@example.com');
+INSERT INTO Members VALUES (101, 'Sindhugr', 'Sindhugr@example.com');
 
 **Record a Borrow Event**
 INSERT INTO Borrow_Records VALUES (1, 1, 101, '2025-06-01');
